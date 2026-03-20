@@ -84,16 +84,6 @@ gamehub/
 
 ---
 
-## 🚢 Deploy to GitHub Pages (Free Hosting)
-
-1. Create a GitHub account at [github.com](https://github.com)
-2. Create a new repository called `gamehub`
-3. Upload `index.html`, `LICENSE.txt`, `README.md`
-4. Go to **Settings → Pages → Source → main branch**
-5. Your game is live at `https://[your-username].github.io/gamehub`
-
----
-
 ## ⚖️ License
 
 ```
@@ -109,9 +99,9 @@ See [LICENSE.txt](LICENSE.txt) for full details.
 
 | | |
 |--|--|
-| **Email** | saipradepp1126@gmail.com |
-| **Bug Reports** | saipradepp1126@gmail.com |
-| **Suggestions** | saipradepp1126@gmail.com |
+| **Email** | saipradeep1126@gmail.com |
+| **Bug Reports** | saipradeep1126@gmail.com |
+| **Suggestions** | saipradeep1126@gmail.com |
 
 ---
 
