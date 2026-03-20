@@ -1,0 +1,50 @@
+MIT License
+
+Copyright (c) 2026 Sai Pradeep A
+Email: saipradeep1126@gmail.com
+Project: GameHub — Browser Arcade
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+
+WHAT THIS MEANS IN PLAIN ENGLISH:
+
+✅ You CAN:
+  - Use GameHub for free, personally or commercially
+  - Share it with others
+  - Modify it and build on top of it
+  - Host it on your own website or server
+
+✅ You MUST:
+  - Keep this copyright notice (© 2026 Sai Pradeep A) in the code
+  - Credit Sai Pradeep A if you share or redistribute it
+
+❌ You CANNOT:
+  - Remove the copyright notice and claim you made it from scratch
+  - Hold Sai Pradeep A liable for any issues
+
+-------------------------------------------------------------------------------
+
+GAME CONCEPTS NOTICE:
+
+The game mechanics (Snake, Pong, Cricket, etc.) are classic public domain
+concepts. The specific CODE, DESIGN, GRAPHICS, LAYOUT, and IMPLEMENTATION
+in this project are original work by Sai Pradeep A and are protected under
+this license and international copyright law.
