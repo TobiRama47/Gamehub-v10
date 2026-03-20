@@ -43,7 +43,7 @@
 2. Open it in any browser (Chrome, Firefox, Safari, Edge)
 3. That's it — no installation needed!
 
-Or visit the live version at: **[your GitHub Pages URL here]**
+Or visit the live version at: https://tobirama47.github.io/Gamehub-v10/ 
 
 ---
 
