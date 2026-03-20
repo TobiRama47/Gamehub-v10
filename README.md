@@ -2,7 +2,7 @@
 
 > **A free, browser-based arcade with 10 games. No downloads. No ads. No tracking.**
 
-**Created by Sai Pradeep A** · [saipradepp1126@gmail.com](mailto:saipradepp1126@gmail.com)
+**Created by Sai Pradeep A** · [saipradeep1126@gmail.com](mailto:saipradepp1126@gmail.com)
 
 ---
 
